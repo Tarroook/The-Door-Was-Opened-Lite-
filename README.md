@@ -1,2 +1,4 @@
 # A-door-was-opened-lite-
-Lite version of A door was opened
+ASCII only version of A door was opened.
+
+<a href = "https://github.com/Tarroook/A-door-was-opened">The original game</a> is strongly recommended if you have a terminal that supports Unicode.
